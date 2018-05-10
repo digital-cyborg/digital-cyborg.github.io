@@ -5,7 +5,7 @@
 ## Operating Systems
 
 [Fundamentals](docs/Fundamentals.pdf)
-[Synchronisation](docs/Synchronisation.p)
+[Synchronisation](docs/Synchronisation.pdf)
 
 ## Videos
 
