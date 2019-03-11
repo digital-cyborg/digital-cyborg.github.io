@@ -1,1 +1,12 @@
-theme: jekyll-theme-hacker
+# Site settings
+title: digitalcyb.org
+email: me@amansoni.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://digitalcyb.org" # the base hostname & protocol for your site
+
+twitter_username: amansoni
+github_username: amansoni
+
+# Build settings
+markdown: kramdown
