@@ -6,6 +6,4 @@ This respositry holds the documentation, code and data for Digital Cyborg.
 
 ## Data
 
-Data is defined using RDF compliant XML. TODO:// Link to standards
-
-## Products
+Data is defined using RDF compliant XML. 
