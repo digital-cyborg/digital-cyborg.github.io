@@ -10,3 +10,6 @@ github_username: amansoni
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
